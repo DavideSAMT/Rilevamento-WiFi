@@ -13,6 +13,7 @@
 ## Documentazione
 - [Documentazione DOC](Documentazione/Documentazione.doc)
 - [Documentazione PDF](Documentazione/Documentazione.pdf)
+- [Gantt Preventivo](Analisi/Gantt_Preventivo.PNG)
 
 ## Diari
 - [03.09.2018](Diari/2018_09_03_Prog1_DavideParadiso.pdf)
