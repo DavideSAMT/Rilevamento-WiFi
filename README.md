@@ -1,6 +1,8 @@
 # Rilevamento-WiFi
 
-## [Documentazione](Documentazione/Documentazione.pdf)
+## Documentazione
+- [Documentazione DOC](Documentazione/Documentazione.doc)
+- [Documentazione PDF](Documentazione/Documentazione.pdf)
 
 ## Diari
 - [03.09.2018](Diari/2018_09_03_Prog1_DavideParadiso.pdf)
