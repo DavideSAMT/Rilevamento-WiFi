@@ -19,10 +19,10 @@
 - [Schema ER](Progettazione/SchemaER.png)
 - [Architettura del sistema](Progettazione/SchemaDelSistema.png)
 - [MockUp pagina Login](Progettazione/Login.PNG)
-- [MockUp pagina Address](Progettazione/Address.png)
-- [MockUp pagina Entrate](Progettazione/Entrate.png)
-- [MockUp pagina Uscite](Progettazione/Uscite.png)
-- [MockUp pagina Dati Personali](Progettazione/DatiPersonali.png)
+- [MockUp pagina Address](Progettazione/Address.PNG)
+- [MockUp pagina Entrate](Progettazione/Entrate.PNG)
+- [MockUp pagina Uscite](Progettazione/Uscite.PNG)
+- [MockUp pagina Dati Personali](Progettazione/DatiPersonali.PNG)
 
 ## Diari
 - [03.09.2018](Diari/2018_09_03_Prog1_DavideParadiso.pdf)
