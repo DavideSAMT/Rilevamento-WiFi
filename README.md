@@ -17,8 +17,7 @@
 ## Progettazione
 - [Gantt Preventivo](Analisi/GanttPreventivo.png)
 - [Schema ER](Progettazione/SchemaER.png)
-- [Architettura del sistema](Progettazione/Schema del sistema.png)
-- [Architettura del sistema](Progettazione/Schema del sistema.png)
+- [Architettura del sistema](Progettazione/SchemaDelSistema.png)
 - [MockUp pagina Login](Progettazione/Login.png)
 - [MockUp pagina Address](Progettazione/Address.png)
 - [MockUp pagina Entrate](Progettazione/Entrate.png)
