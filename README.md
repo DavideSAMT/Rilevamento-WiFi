@@ -29,3 +29,7 @@
 - [04.09.2018](Diari/2018_09_04_Prog1_DavideParadiso.pdf)
 - [05.09.2018](Diari/2018_09_05_Prog1_DavideParadiso.pdf)
 - [10.09.2018](Diari/2018_09_10_Prog1_DavideParadiso.pdf)
+- [11.09.2018](Diari/2018_09_11_Prog1_DavideParadiso.pdf)
+- [12.09.2018](Diari/2018_09_12_Prog1_DavideParadiso.pdf)
+- [17.09.2018](Diari/2018_09_17_Prog1_DavideParadiso.pdf)
+- [18.09.2018](Diari/2018_09_18_Prog1_DavideParadiso.pdf)
