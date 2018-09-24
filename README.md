@@ -15,7 +15,7 @@
 - [Documentazione PDF](Documentazione/Documentazione.pdf)
 
 ## BackUp Web
-- [24/09/2018](Implementazione/Web)
+- [24/09/2018](Implementazione/Web/RilevamentoWiFi_24092018.zip)
 
 ## Progettazione
 - [Gantt Preventivo](Analisi/GanttPreventivo.png)
