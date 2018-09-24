@@ -14,6 +14,9 @@
 - [Documentazione DOC](Documentazione/Documentazione.doc)
 - [Documentazione PDF](Documentazione/Documentazione.pdf)
 
+## BackUp Web
+- [24/09/2018](Implementazione/Web)
+
 ## Progettazione
 - [Gantt Preventivo](Analisi/GanttPreventivo.png)
 - [Schema ER](Progettazione/SchemaER.png)
@@ -33,3 +36,5 @@
 - [12.09.2018](Diari/2018_09_12_Prog1_DavideParadiso.pdf)
 - [17.09.2018](Diari/2018_09_17_Prog1_DavideParadiso.pdf)
 - [18.09.2018](Diari/2018_09_18_Prog1_DavideParadiso.pdf)
+- [19.09.2018](Diari/2018_09_19_Prog1_DavideParadiso.pdf)
+- [24.09.2018](Diari/2018_09_24_Prog1_DavideParadiso.pdf)
